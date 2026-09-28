@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
 
   //github 저장소
-  base: '/onrunning.git'
+  base: '/onrunning/'
 })
